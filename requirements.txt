@@ -1,0 +1,8 @@
+ipywidgets==8.1.1
+notebook==7.0.7
+diffusers==0.26.3
+transformers==4.37.2
+accelerate==0.26.1
+bitsandbytes==0.42.0
+gradio==3.40.0
+torch==2.2.0 --index-url https://download.pytorch.org/whl/cu121
