@@ -7,3 +7,20 @@ The process involves a user uploading an image and selecting the main object by 
 
 This little app can be used to swap backgrounds, swap subjects, remove objects, and more!
 
+## Installation
+
+If you are trying this locally, follow these instructions first:
+
+```bash
+conda create -n "impating" python=3.11
+
+conda activate impating
+
+git clone https://github.com/eljandoubi/AI-Photo-Editing-with-Inpainting.git
+
+cd AI-Photo-Editing-with-Inpainting
+
+pip install -r requirements.txt
+
+jupyter notebook
+```
