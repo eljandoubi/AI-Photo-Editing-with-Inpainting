@@ -24,3 +24,12 @@ pip install -r requirements.txt
 
 jupyter notebook
 ```
+
+## Samples
+
+![Car](car_in_mars.png)
+
+![Dragon](dragon_village.png)
+
+![Monalisa](monalisa_dragons.png)
+
